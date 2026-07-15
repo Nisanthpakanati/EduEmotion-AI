@@ -2,9 +2,12 @@ import traceback
 import os
 import json
 import sys
+# pyrefly: ignore [missing-import]
 import torch
+# pyrefly: ignore [missing-import]
 import torch.nn as nn
 from pathlib import Path
+# pyrefly: ignore [missing-import]
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 from src.utils.text_utils import clean_text, apply_keyword_boosting
