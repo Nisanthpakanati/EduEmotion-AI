@@ -30,6 +30,12 @@ The application helps improve student engagement by offering emotion-aware sugge
 
 ---
 
+## 🎥 Demo Video
+
+[Click here to view the project demo video on Google Drive](https://drive.google.com/drive/folders/10pOYXbRie0qgLF93Dt4tBgL0kbA14F1q)
+
+---
+
 ## ✨ Features
 
 - 😊 Emotion detection from student text
